@@ -1,4 +1,4 @@
-# BEV_Seg:A method for converting 3D lidar point clouds into BEV views and automating road vector feature annotation
+# BEV_Seg: A method for converting 3D lidar point clouds into BEV views and automating road vector feature annotation
 *Chao He*
 
 ## Application
